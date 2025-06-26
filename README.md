@@ -9,7 +9,7 @@ Hello, My name is **w4ntt**, I am a young developer, mostly focusing on Websites
 
 
 **Current Projects** 
-I am currently working on this [ignyor.rf.gd](https://w4ntt.com)  and you can actively visit and star my projects.
+I am currently working on this [w4ntt.com](https://w4ntt.com)  and you can actively visit and star my projects.
 
 
 # What I Know and Use:
